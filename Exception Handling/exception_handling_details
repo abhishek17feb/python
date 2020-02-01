@@ -1,0 +1,4 @@
+We use three keywords for this:-
+1. try :  This is the block of code which may lead to an error
+2. except : This is the block of code in case there is an error in the TRY block
+3. finally : A final block of code to be executed regardless of an error.
